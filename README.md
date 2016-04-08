@@ -1,6 +1,6 @@
 # Fritzbox-Adressbuch
 
-Dieses Projekt kann Fritzbox Adressbücher (Phonebooks) ([http://www.wehavemorefun.de/fritzbox/Phonebook]) bearbeiten.
+Dieses Projekt kann Fritzbox Adressbücher (Phonebooks) ([http://www.wehavemorefun.de/fritzbox/Phonebook]) automatisch konvertieren.
 
 Bearbeitet alle Telefonnummern:
 
