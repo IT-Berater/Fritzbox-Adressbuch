@@ -1,0 +1,34 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>de.wenzlaff.phonebook</groupId>
+	<artifactId>de.wenzlaff.phonebook</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	
+	<url>http://www.wenzlaff.de</url>
+
+	<inceptionYear>2016</inceptionYear>
+	<developers>
+		<developer>
+			<id>thomas.wenzlaff</id>
+			<name>Thomas Wenzlaff</name>
+			<email>gesundheitskarte@wenzlaff.de</email>
+			<roles>
+				<role>Java Architekt</role>
+				<role>Java Entwickler</role>
+			</roles>
+			<timezone>+1</timezone>
+		</developer>
+	</developers>
+	<organization>
+		<name>Thomas Wenzlaff</name>
+		<url>http://www.wenzlaff.de</url>
+	</organization>
+	<dependencies>
+		<dependency>
+			<groupId>org.jdom</groupId>
+			<artifactId>jdom</artifactId>
+			<version>2.0.2</version>
+		</dependency>
+	</dependencies>
+</project>
