@@ -1,4 +1,4 @@
-# de.wenzlaff.phonebook
+# Fritzbox-Adressbuch
 
 Dieses Projekt kann Fritzbox Adressbücher (Phonebooks) ([http://www.wehavemorefun.de/fritzbox/Phonebook]) bearbeiten.
 
