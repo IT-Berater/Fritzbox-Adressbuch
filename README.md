@@ -1,5 +1,8 @@
 # Fritzbox-Adressbuch
 
+[![Build Status](https://travis-ci.org/IT-Berater/Fritzbox-Adressbuch.svg?branch=master)](https://travis-ci.org/IT-Berater/Fritzbox-Adressbuch)  [![codecov](https://codecov.io/gh/IT-Berater/Fritzbox-Adressbuch/branch/master/graph/badge.svg)](https://codecov.io/gh/IT-Berater/Fritzbox-Adressbuch)
+
+
 Dieses Projekt kann Fritzbox Adressbücher (Phonebooks) ([http://www.wehavemorefun.de/fritzbox/Phonebook]) automatisch konvertieren.
 
 Bearbeitet alle Telefonnummern:
