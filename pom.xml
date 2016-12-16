@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>de.wenzlaff.phonebook</groupId>
 	<artifactId>de.wenzlaff.phonebook</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.2-SNAPSHOT</version>
 
 	<packaging>jar</packaging>
 	<name>Thomas Wenzlaff</name>
@@ -24,7 +24,6 @@
 		<junit.platform.version>1.0.0-M2</junit.platform.version>
 	</properties>
 	
-
 	<distributionManagement>
 		<snapshotRepository>
 			<id>ossrh</id>
@@ -147,7 +146,6 @@
 					</execution>
 				</executions>
 			</plugin>
-
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-source-plugin</artifactId>
@@ -198,7 +196,6 @@
 			<artifactId>jdom</artifactId>
 			<version>2.0.2</version>
 		</dependency>
-		
 		<dependency>
 			<groupId>org.junit.jupiter</groupId>
 			<artifactId>junit-jupiter-engine</artifactId>
